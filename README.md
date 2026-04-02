@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-## Resume
 [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)
 
 <!--
