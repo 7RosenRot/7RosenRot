@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Resume
+[Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)
+
 <!--
 **7RosenRot/7RosenRot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
