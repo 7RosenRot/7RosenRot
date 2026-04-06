@@ -3,8 +3,8 @@
 I am interested in computer graphics, as well as parallel and low-level programming, and I want to develop in this field.
 
 ## Skills
-- **Languages**: `C++20`, `C`
-- **Core Competencies**: `Algorithms & Data Structures`, `OOP`, `Computer Architecture`, `Operating Systems Internals`, `Memory Managment`
+- **Developing**: `C++20`, `C`
+- **Core Competencies**: `Algorithms & Data Structures`, `OOP`, `Computer Architecture`, `Operating Systems Internals`, `Memory Management`
 - **Testing & Quality**: `Unit Testing (GTest)`, `Clang-format`, `pre-commit hooks`
 - **Graphics API**: `DirectX 12`
 - **Concurrency & Parallelism**: `Multi-threading (std::thread / std::jthread)`, `Intel Threading Building Blocks (TBB)`, `OpenMP`, `MPI`
@@ -14,7 +14,7 @@ I am interested in computer graphics, as well as parallel and low-level programm
 ## 💻Projects
 🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine) - My main pet project, which I continuously develop and improve.
 
-- **Languages**: `C++20`
+- **Developing**: `C++20`
 - **Graphics API**: `DirectX 12`
 - **Project Configuration**: `CMake`, `DebugView`
 - **Target OS**: `Windows`
@@ -24,7 +24,7 @@ I am interested in computer graphics, as well as parallel and low-level programm
   </p>
 
 ## 📋CV
-- *If you wish to learn more about me, ypu should check my Extended CV - [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)*
+- *If you wish to learn more about me, you should check my Extended CV - [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)*
 
 <!--
 **7RosenRot/7RosenRot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
