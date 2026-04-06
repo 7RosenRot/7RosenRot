@@ -28,8 +28,8 @@
 - **Target OS**: `Windows`, `Linux`
 
 **Roadmap**
-  - *Done*: $\color{green}{\text{Linked List, String}}$
-  - *In Progress*: $\color{yellow}{\text{Vector, Unique Pointer, Shared Pointer}}$
+  - *Done*: $\color{green}{\text{Linked List, String, Vector}}$
+  - *In Progress*: $\color{yellow}{\text{Unique Pointer, Shared Pointer}}$
   - *Further extensions*: $\color{red}{\text{Unordered Map, Map}}$
 
 ## 📋CV
