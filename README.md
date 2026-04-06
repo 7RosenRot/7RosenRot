@@ -24,7 +24,7 @@ I am interested in computer graphics, as well as parallel and low-level programm
   </p>
 
 ## 📋CV
-- *If you wish to learn more about me, you should check my Extended CV - [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)*
+- *If you wish to learn more about me, my knowledge and interests, you should check my Extended CV - [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)*
 
 <!--
 **7RosenRot/7RosenRot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
