@@ -13,15 +13,16 @@ I am interested in computer graphics, as well as parallel and low-level programm
 
 ## 💻Projects
 🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine) - My main pet project, which I continuously develop and improve.
-
 - **Developing**: `C++20`
 - **Graphics API**: `DirectX 12`
 - **Project Configuration**: `CMake`, `DebugView`
 - **Target OS**: `Windows`
 
-  <p align="left">
-    <img src="assets/Preview.gif" alt="Preview" width="600">
-  </p>
+
+
+<p align="left">
+  <img src="assets/Preview.gif" alt="Preview" width="600">
+</p>
 
 ## 📋CV
 - *If you wish to learn more about me, my knowledge and interests, you should check my Extended CV - [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)*
