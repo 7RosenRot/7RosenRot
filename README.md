@@ -12,23 +12,25 @@
 - **Languages**: `English (C1 Certified)`, `Russian (Native)`
 
 ## 💻Projects
-🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine) - My main pet project, which I continuously develop and improve.
+### 🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine) - My main pet project, which I continuously develop and improve.
 - **Developing**: `C++20`
 - **Graphics API**: `DirectX 12`
 - **Project Configuration**: `CMake`, `DebugView`
 - **Target OS**: `Windows`
 
-
-
 <p align="left">
   <img src="assets/Preview.gif" alt="Preview" width="600">
 </p>
 
-🔧[Data Structures](https://github.com/7RosenRot/data_structures) - To master manual memory management and container logic, I am
-independently re-implementing core components of the C++ Standard Library (STL).
+### 🔧[Data Structures](https://github.com/7RosenRot/data_structures) - To master manual memory management and container logic, I am independently re-implementing core components of the C++ Standard Library (STL).
 - **Developing**: `C++20`
 - **Project Configuration**: `CMake`, `Google Test`
 - **Target OS**: `Windows`, `Linux`
+
+**Roadmap**
+  - *Done*: $\color{green}{\text{Linked List, String}}$
+  - *In Progress*: $\color{yellow}{\text{Vector, Unique Pointer, Shared Pointer}}$
+  - *Further extensions*: $\color{red}{\text{Unordered Map, Map}}$
 
 ## 📋CV
 - *If you wish to learn more about me, my knowledge and interests, you should check my Extended CV - [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)*
