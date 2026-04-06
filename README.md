@@ -1,6 +1,6 @@
 ## Glad to see you, my name is [Daniil](https://t.me/Shemetov_Daniil) 👋
 🎓 I am a 21-year-old , 3rd-year Software Engineering student at Lobachevsky University (UNN), Institute of ITMM. My cumulative GPA is 4.3/5.\
-I am interested in computer graphics, as well as parallel and low-level programming, and I want to develop in this field.
+✒️ I am interested in computer graphics, as well as parallel and low-level programming, and I want to develop in this field.
 
 ## Skills
 - **Developing**: `C++20`, `C`
