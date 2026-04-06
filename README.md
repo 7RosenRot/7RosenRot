@@ -19,9 +19,9 @@ I am interested in computer graphics, as well as parallel and low-level programm
 - **Project Configuration**: `CMake`, `DebugView`
 - **Target OS**: `Windows`
 
-<p align="left">
-  <img src="assets/Preview.gif" alt="Preview" width="600">
-</p>
+  <p align="left">
+    <img src="assets/Preview.gif" alt="Preview" width="600">
+  </p>
 
 ## 📋CV
 - *If you wish to learn more about me, ypu should check my Extended CV - [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)*
