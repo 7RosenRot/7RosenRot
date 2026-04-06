@@ -18,7 +18,7 @@
 - **Project Configuration**: `CMake`, `DebugView`
 - **Target OS**: `Windows`
 
-<p align="left">
+<p align="center">
   <img src="assets/Preview.gif" alt="Preview" width="600">
 </p>
 
