@@ -16,7 +16,7 @@
 - **Developing**: `C++20`
 - **Graphics API**: `DirectX 12`
 - **Project Configuration**: `CMake`, `DebugView`
-- **Target OS**: `Windows`
+- **Target OS**: `Windows 11`, `Windows 10`
 
 <p align="center">
   <img src="assets/Preview.gif" alt="Preview" width="600">
