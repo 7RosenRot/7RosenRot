@@ -1,23 +1,39 @@
 ## Glad to see you, my name is [Daniil](https://t.me/Shemetov_Daniil) 👋
-I am a 21-year-old , 3rd-year Software Engineering student at Lobachevsky University (UNN), Institute of ITMM. My cumulative GPA is 4.3/5.\
-I am interested in computer graphics, as well as parallel and low-level programming, and I want to develop in this field.
+🎓 I am a 21-year-old , 3rd-year Software Engineering student at Lobachevsky University (UNN), Institute of ITMM. My cumulative GPA is 4.3/5.\
+✒️ I am interested in computer graphics, as well as parallel and low-level programming, and I want to develop in this field.
 
 ## Skills
-- Languages: `C++20`, `C`
-- Core Competencies: `Algorithms & Data Structures`, `OOP`, `Computer Architecture`, `Operating Systems Internals`, `Memory Managment`
-- Testing & Quality: `Unit Testing (GTest)`, `Clang-format`, `pre-commit hooks`
-- Graphics API: `DirectX 12`
-- Concurrency & Parallelism: `Multi-threading (std::thread / std::jthread)`, `Intel Threading Building Blocks (TBB)`, `OpenMP`, `MPI`
-- Tools & Environment: `CMake`, `Git`, `PowerShell / Bash scripting`, `Windows`, `Linux`
-- Languages: `English (C1 Certified)`, `Russian (Native)`
+- **Developing**: `C++20`, `C`
+- **Core Competencies**: `Algorithms & Data Structures`, `OOP`, `Computer Architecture`, `Operating Systems Internals`, `Memory Management`
+- **Testing & Quality**: `Unit Testing (GTest)`, `Clang-format`, `pre-commit hooks`
+- **Graphics API**: `DirectX 12`
+- **Concurrency & Parallelism**: `Multi-threading (std::thread / std::jthread)`, `Intel Threading Building Blocks (TBB)`, `OpenMP`, `MPI`
+- **Tools & Environment**: `CMake`, `Git`, `PowerShell / Bash scripting`, `Windows`, `Linux`
+- **Languages**: `English (C1 Certified)`, `Russian (Native)`
 
-## Projects
-🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine):
-- My main pet project, which I continuously develop and improve.\
-Currently developing a forward renderer written in C++20, utilizing the DirectX 12 API for low-level GPU interaction.\
-I use CMake for project configuration and DebugView for real-time diagnostic monitoring.
+## 💻Projects
+### 🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine) - My main pet project, which I continuously develop and improve.
+- **Developing**: `C++20`
+- **Graphics API**: `DirectX 12`
+- **Project Configuration**: `CMake`, `DebugView`
+- **Target OS**: `Windows 11`, `Windows 10`
 
-[Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)
+<p align="center">
+  <img src="assets/Preview.gif" alt="Preview" width="600">
+</p>
+
+### 🔧[Data Structures](https://github.com/7RosenRot/data_structures) - To master manual memory management and container logic, I am independently re-implementing core components of the C++ Standard Library (STL).
+- **Developing**: `C++20`
+- **Project Configuration**: `CMake`, `Google Test`
+- **Target OS**: `Windows`, `Linux`
+
+**Roadmap**
+  - *Done*: $\color{green}{\text{Linked List, String, Vector}}$
+  - *In Progress*: $\color{yellow}{\text{Unique Pointer, Shared Pointer}}$
+  - *Further extensions*: $\color{red}{\text{Unordered Map, Map}}$
+
+## 📋CV
+- *If you wish to learn more about me, my knowledge and interests, you should check my Extended CV - [Resume](https://github.com/7RosenRot/7RosenRot/blob/main/resume.pdf)*
 
 <!--
 **7RosenRot/7RosenRot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
