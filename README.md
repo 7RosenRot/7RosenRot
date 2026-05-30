@@ -19,7 +19,7 @@
 - **Target OS**: `Windows 11`, `Windows 10`
 
 <p align="center">
-  <img src="assets/Preview.gif" alt="Preview" width="600">
+  <img src="assets/demo.gif" alt="demo" width="600">
 </p>
 
 ### 🔧[Data Structures](https://github.com/7RosenRot/data_structures) - To master manual memory management and container logic, I am independently re-implementing core components of the C++ Standard Library (STL).
