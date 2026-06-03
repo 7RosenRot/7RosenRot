@@ -12,14 +12,14 @@
 - **Languages**: `English (C1 Certified)`, `Russian (Native)`
 
 ## 💻Projects
-### 🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine/tree/develop) - My main pet project, which I continuously develop and improve.
+### 🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine) - My main pet project, which I continuously develop and improve.
 - **Developing**: `C++20`
 - **Graphics API**: `DirectX 12`
 - **Project Configuration**: `CMake`, `DebugView`
 - **Target OS**: `Windows 11`, `Windows 10`
 
 <p align="center">
-  <img src="https://github.com/7RosenRot/DirectX12Engine/blob/master/github/demo.gif" alt="demo" width="600">
+  <img src="https://github.com/7RosenRot/DirectX12Engine/blob/develop/github/demo.gif" alt="demo" width="600">
 </p>
 
 ### 🔧[Data Structures](https://github.com/7RosenRot/data_structures) - To master manual memory management and container logic, I am independently re-implementing core components of the C++ Standard Library (STL).
