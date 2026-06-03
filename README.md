@@ -12,7 +12,7 @@
 - **Languages**: `English (C1 Certified)`, `Russian (Native)`
 
 ## 💻Projects
-### 🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine) - My main pet project, which I continuously develop and improve.
+### 🎮[Graphics Pet Project](https://github.com/7RosenRot/DirectX12Engine/tree/develop) - My main pet project, which I continuously develop and improve.
 - **Developing**: `C++20`
 - **Graphics API**: `DirectX 12`
 - **Project Configuration**: `CMake`, `DebugView`
